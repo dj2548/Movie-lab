@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Welcome to BlockBusters would you like to ");
+            Console.WriteLine("Hello, Welcome to BlockBusters would you like to check our movies?");
         }
     }
 }
